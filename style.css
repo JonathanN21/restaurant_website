@@ -1,0 +1,17 @@
+h1{ 
+color:#d60404;
+}
+h2{
+color: #d60404;
+}
+h4{
+color: #cf0404;
+}
+body{background-color: #000000;}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
